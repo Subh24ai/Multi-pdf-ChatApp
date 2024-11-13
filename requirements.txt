@@ -1,0 +1,7 @@
+1. streamlit
+2. google-generativeai
+3. python-dotenv
+4. langchain
+5. PyPDF2
+6. faiss-cpu
+7. langchain_google_genai
